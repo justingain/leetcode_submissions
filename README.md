@@ -9,4 +9,4 @@ Problems are organized by number and title.
 
 | # | Title | Difficulty | Topic | Solution |
 |---|-------|------------|-------|---------|
-| 1768 | Merge Strings Alternately | Easy | Two Pointers | [Python](1768_merge_strings_alternately.py) |
+| 1768 | Merge Strings Alternately | Easy | Two Pointers | [Python](https://github.com/justingain/leetcode_submissions/blob/main/1768_Merge_Strings_Alternately.py) |
